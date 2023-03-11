@@ -17,6 +17,14 @@ Minha formação é: Técnico em processamento de dados e Redes de Computadores.
 Tenho certificação em AZ 900, curso no descomplica e nu.
 Estou me especializando na área de programação Front End em HTML, CSS e Java Script
 
+
+### Listas de serviços prestados de informática:
+- Manutenção de computadores e Notebook;
+- Backup em Nuvem;
+- Contratos de Manutenção;
+- Redes de computadores;
+
+
 <p align="center"><a href="https://www.sysgaya.com.br/">Visite o meu site e explore todos os meus serviços</a></p>
 
 <p align="center">
