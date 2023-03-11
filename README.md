@@ -1,6 +1,8 @@
-💬 Meu nome é Raphael Perdigão
-Idade: 39 Anos
-Moro em São Paulo - Capital
+
+
+# Meu nome é Raphael Perdigão
+## Idade: 39 Anos
+### Moro em São Paulo - Capital
 Sou Casado
 Tenho 3 filhos
 🔭 Trabalho com uma  empresa própria de manutenção de equipamentos de informática de forma autônoma. 
