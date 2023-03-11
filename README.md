@@ -19,6 +19,8 @@ Estou me especializando na área de programação Front End em HTML, CSS e Java 
 
 <a href="https://www.sysgaya.com.br/">Visite o meu site e explore todos os meus serviços</a>
 
+<img src="https://raw.githubusercontent.com/MatheusHonorato/curso-front-end-marco-bruno/master/html-css-js.png" width="20%">
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=square&logo=Github&logoColor=white&link=https://github.com/raperdigao)](https://github.com/raperdigao)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/raphaelperdigao)](http://linkedin.com/in/raphaelperdigao)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=square&logo=Gmail&logoColor=white&link=mailto:ra.perdigao@gmail.com)](mailto:ra.perdigao@gmail.com)
